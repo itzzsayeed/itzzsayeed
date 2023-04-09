@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to the Github profile of Saidul Islam</h1>
 <h3 align="center">Data Science: Machine Learing-Deep Learning and Data Analysis Enthusiast.</h3>
 
-- 🔭 My current research project on **Deep Learning-Transformer application for optimization and prediction tasks in a combination of image & signal data.**
+- 🔭 My current research project: **Deep Learning-Transformers application for optimization and prediction tasks in a combination of image & signal data.**
 
-- 👯 Recent research Project Accomplished: **Analysis of Transformer models' application for NLP, CV, Multi-model, Audio/Speech, and signal processing tasks.**
+- 👯 Recent research Project accomplished: **Analysis of Deep learning-Transformers models' application for NLP, CV, Multi-model, Audio/Speech, and signal processing tasks.**
 
-- 🌱 I’m currently learning **Pyspark & MLOps**
+- 🌱 I’m currently learning **Pyspark & MLOps.**
 
-- 🤝 Present Position **"Graduate Research & Teaching Assistant" @Concordia University, "Course Assistant" @McGill University**
+- 🤝 Present Position: **"Graduate Research & Teaching Assistant" @Concordia University, "Course Assistant" @McGill University**
 
 - 💬 Ask me about **Machine learning-Deep learning**
 
