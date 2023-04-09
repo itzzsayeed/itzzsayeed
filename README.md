@@ -9,6 +9,8 @@
 
 - 🤝 Present Position: **"Graduate Research & Teaching Assistant" @Concordia University, "Course Assistant" @McGill University**
 
+- 🤝 Former Position(2016-2021): **"Senior Research & Development Engineer" at Research & Development @OPPO**
+
 - 💬 Ask me about **Machine learning-Deep learning**
 
 <p align="left">
