@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Machine learning-Deep learning**
 
-<h3 align="left">Connect with me: saidul.rnd@gmail.com</h3>
 <p align="left">
 </p>
 
