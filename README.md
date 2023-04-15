@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to the Github of Saidul Islam</h1>
-<h3 align="center">Data Science: Machine Learing-Deep Learning and Data Analysis Enthusiast.</h3>
+<h3 align="center">Data Science: Machine Learing-Deep Learning, Data Analysis and Research & Development Enthusiast.</h3>
 
 - 🔭 My current research project: **Deep Learning-Transformers application for optimization and prediction tasks in a combination of image & signal data.**
 
