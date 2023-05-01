@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to the Github of Saidul Islam</h1>
 <h3 align="center">Data Science: Machine Learing-Deep Learning, Data Analysis and R&D Enthusiast.</h3>
 
-- 🔭 My current research project: **Deep Learning-Transformers application for optimization and prediction tasks in a combination of image & signal data.**
+- 🔭 My current research project: **Deep Learning-Transformers application for optimization and prediction tasks in a combination of Text, image & signal data.**
 
 - 👯 Recent research Project accomplished: **Analysis of Deep learning-Transformers models' application for NLP, CV, Multi-model, Audio/Speech, and signal processing tasks.**
 
