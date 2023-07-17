@@ -5,7 +5,7 @@
 
 - 👯 Recent research Project accomplished: **Analysis of Deep learning-Transformers models' application for NLP, CV, Multi-model, Audio/Speech, and signal processing tasks.**
 
-- 🌱 I’m currently learning **Azure MLOps.**
+- 🌱 I’m currently learning ** MLOps **
 
 - 🤝 Present Position: **"Graduate Research & Teaching Assistant" @Concordia University, "Course Assistant" @McGill University**
 
